@@ -48,7 +48,7 @@ let customAutoSlide = function (activeClass) {
 				return;
 			}
 			activeAutoSlide();
-		}, 5000);
+		}, 8000);
 	};
 	activeAutoSlide();
 };
